@@ -1,0 +1,4 @@
+2018-10-24 18:05:43,541 INFO org.springframework.boot.StartupInfoLogger [main] Starting AnimalRescueApplication on DESKTOP-099UQRG with PID 532 (C:\Users\Administrator\eclipse-workspace\IT4045AnimalRescue\target\classes started by Administrator in C:\Users\Administrator\eclipse-workspace\IT4045AnimalRescue)
+2018-10-24 18:05:43,544 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-24 18:05:43,546 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2018-10-24 18:05:47,148 INFO org.springframework.boot.StartupInfoLogger [main] Started AnimalRescueApplication in 4.141 seconds (JVM running for 5.683)
